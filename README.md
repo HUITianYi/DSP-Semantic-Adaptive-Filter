@@ -118,5 +118,3 @@ Semantic-Adaptive-Filter/
 本项目采用 [MIT License](https://www.google.com/search?q=LICENSE) 开源许可证。
 
 ```
-
-```
